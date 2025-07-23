@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋,
+My name is **Harun**, I'm a **self-thaught**. 
 
-<!--
-**harrnui/harrnui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Philosophy:
+  * I like to write code in a minimalistc and well thought through way (most of the time *it is more of me trying* to stick to that rule). That applies to life too.
 
-Here are some ideas to get you started:
+### Fun I have:
+  * Fun, apart from my learning and preping for a SWD job, is in family time, long walks with my dog and listening to music! Oh yes, and coffee!☕☕☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on:
+  * Lately I've been working mostly on front-end projects with React and Next. Initally I started with back-end.
+
+### Contact:
+  * For any business inquires contact me at: sharun.freelance@gmail.com
