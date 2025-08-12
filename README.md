@@ -1,5 +1,5 @@
 # Hi there 👋,
-My name is **Harun**, I'm a **self-thaught**. 
+My name is **Harun**, I'm a **self-taught**. 
 
 ### Philosophy:
   * I like to write code in a minimalistc and well thought through way (most of the time *it is more of me trying* to stick to that rule). That applies to life too.
